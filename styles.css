@@ -62,6 +62,9 @@ a{
     animation: anim6 5s infinite ease alternate-reverse;
 }
 
+.reseachBody{
+    background-color: aqua;
+}
 .div1{
     background-color: rgba(167, 173, 173, 0.507);
     height: 80px;
