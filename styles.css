@@ -12,36 +12,42 @@ p{
     background-color: aquamarine;
     color: red;
     width: 5px;
+    margin-left: -0.5px;
     animation: anim1 5s infinite ease alternate-reverse;
 }
 .p2{
     background-color: green;
     color: yellow;
     width: 5px;
+    margin-left: -5.5px;
     animation: anim2 5s infinite ease alternate-reverse;
 }
 .p3{
     background-color: brown;
     color: rgb(94, 88, 88);
     width: 5px;
+    margin-left: -5.5px;
     animation: anim3 5s infinite ease alternate-reverse;
 }
 .p4{
     background-color: peru;
     color: pink;
     width: 5px;
+    margin-left: -5.5px;
     animation: anim4 5s infinite ease alternate-reverse;
 }
 .p5{
     background-color: purple;
     color: orange;
     width: 5px;
+    margin-left: -5.5px;
     animation: anim5 5s infinite ease alternate-reverse;
 }
 .p6{
     background-color: chartreuse;
     color: grey;
     width: 5px;
+    margin-left: -5.5px;
     animation: anim6 5s infinite ease alternate-reverse;
 }
 
