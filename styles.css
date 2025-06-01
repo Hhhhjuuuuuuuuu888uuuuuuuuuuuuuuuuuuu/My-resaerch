@@ -15,6 +15,7 @@ p{
     color: red;
     width: 5px;
     margin-left: -0.5px;
+    border-radius: 15px;
     animation: anim1 5s infinite ease alternate-reverse;
 }
 .p2{
@@ -22,6 +23,7 @@ p{
     color: yellow;
     width: 5px;
     margin-left: -5.5px;
+    border-radius: 15px;
     animation: anim2 5s infinite ease alternate-reverse;
 }
 .p3{
@@ -29,6 +31,7 @@ p{
     color: rgb(94, 88, 88);
     width: 5px;
     margin-left: -5.5px;
+    border-radius: 15px;
     animation: anim3 5s infinite ease alternate-reverse;
 }
 .p4{
@@ -36,6 +39,7 @@ p{
     color: pink;
     width: 5px;
     margin-left: -5.5px;
+    border-radius: 15px;
     animation: anim4 5s infinite ease alternate-reverse;
 }
 .p5{
@@ -43,6 +47,7 @@ p{
     color: orange;
     width: 5px;
     margin-left: -5.5px;
+    border-radius: 15px;
     animation: anim5 5s infinite ease alternate-reverse;
 }
 .p6{
@@ -50,6 +55,7 @@ p{
     color: grey;
     width: 5px;
     margin-left: -5.5px;
+    border-radius: 15px;
     animation: anim6 5s infinite ease alternate-reverse;
 }
 
